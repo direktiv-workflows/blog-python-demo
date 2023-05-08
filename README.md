@@ -41,5 +41,4 @@ This is a simple workflow example to show how to run Python code from a GitHub r
 
 ## External links:
 
- - Blog article: https://blog.direktiv.io/turn-your-code-into-a-serverless-api-748490acd470
- - YouTube video: 
+ - Blog article: https://blog.direktiv.io/turn-your-code-into-a-serverless-api-748490acd470ß
